@@ -1,0 +1,114 @@
+html {
+  font-size: 10px;
+}
+html body {
+  font-family: 'museo_reg', sans-serif;
+}
+html body section {
+  padding: 4rem 0 8rem;
+}
+a:hover,
+a:active,
+a:focus {
+  text-decoration: none;
+}
+*:focus {
+  outline: none;
+}
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p {
+  margin: 0;
+}
+.section-title {
+  font-family: 'museo_reg', sans-serif;
+  text-transform: uppercase;
+  text-align: center;
+  font-size: 10px;
+  color: #1b1b1b;
+  margin-bottom: 6rem;
+}
+.section-title .upper-icon-wrapper::before,
+.section-title .upper-icon-wrapper::after {
+  content: '';
+  display: inline-block;
+  width: 1.5rem;
+  height: 0.1rem;
+  margin-bottom: 15px;
+  background-color: #5ba2a9;
+}
+.section-title .upper-icon-wrapper .upper-icon {
+  margin-bottom: 1.5rem;
+  width: 2rem;
+  height: 2rem;
+}
+.feedback-forms-all {
+  padding: 6rem 0 9rem;
+}
+.feedback-form-statement {
+  padding: 6rem 0 0;
+}
+.feedback-form-title {
+  text-align: center;
+  margin-bottom: 6rem;
+}
+.feedback-form-title h3 {
+  font-family: 'museo_reg', sans-serif;
+  font-size: 10px;
+  color: #1b1b1b;
+  margin-bottom: 1.2rem;
+}
+.feedback-form-title p {
+  font-size: 10px;
+}
+.feedback-form-input {
+  position: relative;
+  width: 100%;
+  padding: 1.4rem 4.5rem 1.4rem 1.4rem;
+  border: 2px solid #d0d0d0;
+  opacity: .5;
+  color: #454545;
+  -webkit-transition: 0.3s;
+  -moz-transition: 0.3s;
+  -ms-transitiosn: 0.3s;
+  transition: 0.3s;
+}
+.feedback-form-input::-webkit-input-placeholder,
+.feedback-form-input::-moz-placeholder,
+.feedback-form-input:-moz-placeholder,
+.feedback-form-input:-ms-input-placeholder {
+  color: #515151;
+  font-size: 1.5rem;
+}
+.feedback-form-input:hover,
+.feedback-form-input:focus {
+  opacity: 1;
+}
+.feedback-form.input-user,
+.feedback-form.input-phone {
+  background: url(../img/shared/feedback/telephone-icon.svg) right 1.5rem center no-repeat;
+  background-size: 2rem;
+}
+.feedback-form .title-feedback,
+.feedback-form .description-feedback {
+  display: block;
+}
+.feedback-form-btn {
+  text-transform: uppercase;
+  font-size: 10px;
+  min-width: 100%;
+  padding: 1.2rem 0;
+  background-color: #5ba2a9;
+  border: none;
+  color: #ffffff;
+  -webkit-transition: 0.4s;
+  transition: 0.4s;
+}
+.feedback-form-btn:hover {
+  background-color: #488389;
+  border-radius: 10px;
+}
