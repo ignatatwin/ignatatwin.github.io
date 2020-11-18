@@ -6,3 +6,4 @@
 
   [Урок 12](https://ignatatwin.github.io/lesson_12/ "готовое дз")
 
+  [Урок 13](https://ignatatwin.github.io/perfect_pixel/ "готовое дз")
