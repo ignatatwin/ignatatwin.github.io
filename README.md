@@ -9,3 +9,5 @@
   [Урок 13](https://ignatatwin.github.io/perfect_pixel/ "готовое дз")
  
   [Практика 1](https://ignatatwin.github.io/практика/ "готовое дз")
+
+  [Урок 14](https://ignatatwin.github.io/шрифты/ "готовое дз")
