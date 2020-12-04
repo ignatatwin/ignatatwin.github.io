@@ -13,3 +13,5 @@
   [Урок 14](https://ignatatwin.github.io/шрифты/ "готовое дз")
   
   [Практика 2](https://ignatatwin.github.io/практика_2/ "готовое дз")
+
+  [Урок 15](https://ignatatwin.github.io/-псевдо/ "готовое дз")
