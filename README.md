@@ -12,4 +12,4 @@
 
   [Урок 14](https://ignatatwin.github.io/шрифты/ "готовое дз")
   
-  [Практика 2](https:// ignatatwin.github.io/практика/ "готовое дз")
+  [Практика 2](https://ignatatwin.github.io/практика/ "готовое дз")
