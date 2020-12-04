@@ -3,7 +3,7 @@
   <head>
     <meta charset="utf-8">
     <meta name="description" content="website">
-    <link rel="icon" href="">
+    <link rel="icon">
     <title>ГИПСОЛИТ</title>
     <link rel="stylesheet"  href="css/bootstrap.css">
     <link rel="stylesheet"  href="css/style.css">
@@ -14,7 +14,7 @@
   </head>
 
   <body>
-  <main>
+  <main class="main">
    <div class="container">
     <div class="section">
       <div class="row">
@@ -23,7 +23,9 @@
         </div>
 
         <div class="col-lg-2 col-lg-offset-4">
-         <a class="phone-link" href="#">+7 495 771 05 08</a>
+         <div class="phone-block">
+         	<a class="phone-link" href="#">+7 495 771 05 08</a>
+         </div>
         </div>
 
         <div class="col-lg-3">
@@ -34,7 +36,37 @@
           </div>
         </div>
       </div><!-- row 1 -->
-    </div>
+    </div><!-- section -->
+
+    <div class="main-content">
+    	<div class="row">
+    		<div class="col-lg-6">
+    			<div class="main-title">
+    				<h1>Автоматизированная штукарурка стен</h1>
+    				<p class="main-subtitle">Идеально ровные стены <br> в кратчайшие сроки</p>
+    				<span>
+    					стоимость работ <br> от <strong>300</strong> руб/м<sup>2</sup>
+    				</span>
+    				<strong class="main-trigger">
+    					Оплата по факту!
+    				</strong>
+    			</div><!-- main-title -->
+    		</div>
+    		<div class="col-lg-4 col-lg-offset-2">
+    			<div class="main-form">
+    				<h2 class="main-form-header">Для расчета точной стоимости <br> закажите <strong>выезд замерщика</strong></h2>
+    				<form action="#">  
+    					<label for="#">Ваше имя</label>
+    					<input class="main-form-input" type="text">
+    					<label for="#">Номер телефона</label>
+    					<input class="main-form-input" type="text">
+    					<button class="main-form-btn button" type="submit">оставьте заявку</button>
+    					<small>Подарок в день обращения</small>
+    				</form>
+    			</div><!-- main-form -->
+    		</div>
+    	</div><!-- row 2 -->
+    </div><!-- main-content -->
 
     </div><!-- /.container -->
 
@@ -45,3 +77,5 @@
     <script src="http://getbootstrap.com/assets/js/ie10-viewport-bug-workaround.js"></script>
   </body>
 </html>
+
+
