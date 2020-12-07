@@ -22,6 +22,6 @@
   
   [Практика 4](https://ignatatwin.github.io/практика_4/ "готовое дз")
   
-  
-
   [Урок 17](https://ignatatwin.github.io/всплывающие_окна/ "готовое дз")
+  
+  [Практика 5](https://ignatatwin.github.io/практика_5/ "готовое дз")
